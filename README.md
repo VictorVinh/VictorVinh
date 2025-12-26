@@ -44,8 +44,8 @@
 ## GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Vinh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorVinh&show_icons=true&theme=radical" alt="Vinh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVinh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
