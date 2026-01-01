@@ -41,7 +41,7 @@
 
 ---
 
-![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorVinh&show_icons=true&theme=nord)
+![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorVinh)](https://github.com/VictorVinh/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVinh&layout=compact&theme=nord)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorVinh&theme=nord)
