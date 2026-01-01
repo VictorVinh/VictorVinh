@@ -41,22 +41,16 @@
 
 ---
 
-## GitHub Analytics
+![Vinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorVinh&show_icons=true&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVinh&layout=compact&theme=nord)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorVinh&show_icons=true&theme=nord" alt="Vinh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVinh&layout=compact&theme=nord" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorVinh&theme=nord" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VictorVinh&theme=nord)
 
 ---
 
 ## 📫 Let's Connect:
 * **Email:** vinh.trantien0912@gmail.com
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Portfolio Video:** [Link to your 2-minute video]
+* **Resume:** [https://bit.ly/VinhTran-Resume]
+* **Portfolio and Honors:** [https://bit.ly/VinhTran-PortfolioandHonors]
 
 *"I believe every complex problem is solvable through a mix of clean code, rigorous logic, and a bit of solder."*
