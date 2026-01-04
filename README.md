@@ -40,13 +40,6 @@
 * Dedicated to fostering a "Maker Culture" within the school community.
 
 ---
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" src="https://github-readme-stats-victorvinh.vercel.app/api?username=VictorVinh&show_icons=true&hide_border=true"/>
-</details>
-
 [![Vinh's GitHub Stats](https://github-readme-stats-victorvinh.vercel.app/api?username=VictorVinh)](https://github.com/VictorVinh/github-readme-stats)
 
 ---
