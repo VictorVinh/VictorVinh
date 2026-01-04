@@ -42,7 +42,7 @@
 ---
 
 <details>
-  <summary>:zap; Github Stats</summary>
+  <summary>:zap: Github Stats</summary>
 
   <img align="left" src="https://github-readme-stats-victorvinh.vercel.app/api?username=VictorVinh&show_icons=true&hide_border=true"/>
 </details>
