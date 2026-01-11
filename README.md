@@ -19,7 +19,7 @@
 
 ### 🏆 International Robotics & Software Success
 * **1st Prize (Lego Category):** International Robotraffic Competition (Israel) — optimized **PID control loops** for autonomous navigation.
-* **Dual 2nd Prizes:** FPTU AI & Robotics Challenge — developed a **Computer Vision** pipeline for remote-controlled robots and a full-stack web interface.
+* **2nd Prizes:** FPTU AI & Robotics Challenge — developed a **Computer Vision** pipeline for remote-controlled robots and a full-stack web interface.
 
 ---
 
